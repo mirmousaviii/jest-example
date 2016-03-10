@@ -5,7 +5,7 @@ describe('sum', () => {
         const sum = require('../sum');
         expect(sum(1, 2)).toBe(3);
     });
-    it('adds 1 + 2.1 to equal 3', () => {
+    it('adds 1 + 2.1 to equal 3.1', () => {
         const sum = require('../sum');
         expect(sum(1, 2.1)).toBe(3.1);
     });
