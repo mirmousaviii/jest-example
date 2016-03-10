@@ -1,0 +1,17 @@
+{
+  "name": "jest-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Mostafa Mirmousavi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^0.9.1"
+  }
+}
